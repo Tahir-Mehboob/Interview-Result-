@@ -1,0 +1,15 @@
+<patient>
+    <id root="12345"/>
+    <name>
+        <given>John</given>
+        <family>Doe</family>
+    </name>
+    <gender code="M"/>
+    <birthTime value="19800101"/>
+    <telecom value="+1234567890"/>
+    <addr>
+        <streetAddressLine>123 Main Street</streetAddressLine>
+        <city>Karachi</city>
+        <country>PK</country>
+    </addr>
+</patient>
